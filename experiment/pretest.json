@@ -2,38 +2,153 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the diameter of the Rockwell ball indentor?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1/16 inch",
+        "b": "1/3 inch",
+        "c": "1/7 inch",
+        "d": "1/5 inch"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Load applied for Rockwell C test is more than Rockwell B test",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "False",
+        "b": "True"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the unit of Rockwell hardness number?",
+      "answers": {
+        "a": "Dimensionless number",
+        "b": "Pascal",
+        "c": "Newton",
+        "d": "Kilograms"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a ",
+      "difficulty": ""
+    },
+    {
+      "question": "Match the following for Rockwell hardness test<br><img src='images/rht.png' height=142 width=507/>",
+      "answers": {
+        "a": "a-2,b-1,c-3",
+        "b": "a-1,b-3,c-2",
+        "c": "a-3,b-1,c-2",
+        "d": "a-1,b-2,c-3"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "What is the value of minor load applied in the experiment?",
+      "answers": {
+        "a": "12 Kg",
+        "b": "8 Kg",
+        "c": "10 Kg",
+        "d": "5 Kg"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Why minor load is initially applied in Rockwell hardness test?",
+      "answers": {
+        "a": "specimen cannot bear the major load",
+        "b": "to distribute the load acting on the specimen",
+        "c": "to firmly seat the penetrator in to position for major load",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Rockwell hardness number is obtained by",
+      "answers": {
+        "a": "By Rockwell hardness formula",
+        "b": "Direct reading from the gauge",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Diamond indentor can be used for metals having hardness",
+      "answers": {
+        "a": "Below 20HRC",
+        "b": "Above 20HRC",
+        "c": "For any values",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "In C-scale of Rockwell hardness testing, the shape of indenter used is",
+      "answers": {
+        "a": "Diamond cone",
+        "b": "Steel ball",
+        "c": "Steel prism",
+        "d": "Any of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
