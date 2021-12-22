@@ -89,7 +89,7 @@ Commonly used types of anvils
 
 </div>
 
-**RELEVANT INDIAN STANDARD FOR ROCKWELL TEST**:
+**RELEVANT INDIAN STANDARD FOR ROCKWELL HARDNESS TEST**:
 
 1. IS 1586 (Part 1): 2012, Metallic materials - Rockwell hardness test: Part 1 Test method (scales A, B, C, D, E, F, G, H, K, N, T), Fourth revision, 2012.
 
