@@ -1,0 +1,137 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the apex angle of Rockwell cone indentor?",
+      "answers": {
+        "a": "90",
+        "b": "60",
+        "c": "150",
+        "d": "120"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Name the type of Rockwell hardness test done</br>i)The material is soft and moderately hard</br>ii)The material is hard",
+      "answers": {
+        "a": "i = Rockwell C ; ii = Rockwell B",
+        "b": "i = Rockwell B ; ii = Rockwell C",
+        "c": "any of the method can be used",
+        "d": "Rock B is used for all the materials"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The resistance of the sample to material deformation due to constant compression load from a sharp object is measure of",
+      "answers": {
+        "a": "Indentation hardness",
+        "b": "Rebound hardness",
+        "c": "Scratch hardness",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Hardness is dependent on",
+      "answers": {
+        "a": "Ductility",
+        "b": "Elastic stiffness",
+        "c": "Viscosity",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Which IS code is preferred for Rockwell hardness test?",
+      "answers": {
+        "a": "IS-1586-1988",
+        "b": "IS-1500-1983",
+        "c": "IS-1501(Part 1& 2)-1984",
+        "d": "IS-1501(part 3)-1987"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Rockwell hardness test method can be used for testing",
+      "answers": {
+        "a": "Metal hardness",
+        "b": "Ceramic substance hardness",
+        "c": "Plastic hardness",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The load applied in C-scale of Rockwell hardness test is",
+      "answers": {
+        "a": "60kgf",
+        "b": "100 kgf",
+        "c": "120 kgf",
+        "d": "150kgf"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The load applied in C-scale of Rockwell hardness test is",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
